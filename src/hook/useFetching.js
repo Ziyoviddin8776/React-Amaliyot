@@ -17,4 +17,3 @@ export const useFetching=(callback)=>{
     return [fetching,isLoading,err]
 }
 
-// api dan malumotlarni olish
