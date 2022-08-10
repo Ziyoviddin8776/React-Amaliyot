@@ -10,3 +10,6 @@ class GetAPI{
 }
 
 export default GetAPI
+
+
+// Api
